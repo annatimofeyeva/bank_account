@@ -10,15 +10,15 @@
 
 2. app will display form for deposit or withdrawal amount - DONE
 
-3. display current balance
+3. display current balance - DONE
 
 4. save user name and initial deposit as variables in js, upon 'create account' button - DONE
 
-5. App will save deposit or withdrawal amount as variable in js, upon 'update' button
+5. App will save deposit or withdrawal amount as variable in js, upon 'update' button - DONE
 
-6. app will perform backend logic, adding deposit amount to initial deposit
+6. app will perform backend logic, adding deposit amount to initial deposit - DONE
 
-7. App will perform backend logic, subtracting withdrawal amount from initial deposit
+7. App will perform backend logic, subtracting withdrawal amount from initial deposit - DONE
 
 8. App will display current balance on 'check balance' submit button
 
