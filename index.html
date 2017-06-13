@@ -11,19 +11,22 @@
     <div class="container">
     <h1>Anna + Emilie Credit Union</h1>
     <p>Member FDIC</p>
+
+
     <div class="row">
       <div class="bg-info col-lg-6">
-        <form id="form-create">
           <div class="create-account">
             <h2>Register a new account:</h2>
+            <form id="form-create">
             <label for="name">Name:</label>
             <input type="text" class="form-control" id="name">
             <label for="name">Initial Deposit:</label>
             <input type="number" class="form-control" id="initialDeposit">
           </div>
-          <button id="createAccount" class="btn btn-md" type="button">Create Account</button>
-        </form>
-      </div>
+          <button id="createAccount" class="btn btn-md" type="submit">Create Account</button>
+          </form>
+        </div>
+
       <div class="bg-info col-lg-6">
         <form id="form-update">
           <div class="update-account">
@@ -35,8 +38,10 @@
           </div>
           <button id="updateAccount" class="btn btn-md" type="button">Update Account</button>
         </form>
+
       </div>
     </div>
+
     <div class="well">
         <div class="update-account">
           <h2>Current Balance:</h2>

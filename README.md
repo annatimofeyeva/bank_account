@@ -12,7 +12,7 @@
 
 3. display current balance
 
-4. save user name and initial deposit as variables in js, upon 'create account' button
+4. save user name and initial deposit as variables in js, upon 'create account' button - DONE
 
 5. App will save deposit or withdrawal amount as variable in js, upon 'update' button
 
